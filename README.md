@@ -17,8 +17,6 @@ wsl --install
 ![](https://i.ibb.co/vvDz3Nc/wsl-install.png)
 
 ## 3. Install Forge :cherry_blossom:
-
-
 ```sh
 npm install -g @forge/cli
 ```
@@ -33,11 +31,11 @@ forge --version
 
 ## 5. Create an API token :cherry_blossom:
 
-Create an API token in [Mange API Tokens](https://id.atlassian.com/manage-profile/security/api-tokens)
+Create an API token in [Manage API Tokens](https://id.atlassian.com/manage-profile/security/api-tokens)
 
 ![](https://i.ibb.co/xYJFH4f/image.png)
 
-## 6. Login with your Atlassin acount :cherry_blossom:
+## 6. Login with your Atlassian acount :cherry_blossom:
 ```sh
 forge login
 ```
