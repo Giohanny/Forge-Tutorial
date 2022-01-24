@@ -1,7 +1,11 @@
 # Forge-Tutorial :octocat:
 Use this documentation [Install Forge](https://developer.atlassian.com/platform/forge/getting-started)
 
-## Previous install :cherry_blossom:
+<style>
+.emoji-big-size img {font-size: 5px;}
+</style>
+
+ ## Previous install  :cherry_blossom: 
 you must already have installed Docker and Node.js
 
 ![](https://i.ibb.co/Hn10d3R/image.png)
