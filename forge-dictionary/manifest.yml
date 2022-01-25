@@ -1,0 +1,17 @@
+modules:
+  confluence:contextMenu:
+    - key: dictionary
+      function: main
+      title: Define word
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: ari:cloud:ecosystem::app/49f2de42-0917-4040-b1af-9cc71f18c0fc
+  name: dictionary in inline dialog
+permissions:
+  scopes:
+    - read:confluence-content.summary
+    - write:confluence-content
+    - read:confluence-props
+    - write:confluence-props
