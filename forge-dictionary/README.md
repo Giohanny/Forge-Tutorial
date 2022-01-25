@@ -32,6 +32,9 @@ Choose the Confluence as product and enter your site
 ![](https://i.ibb.co/D5Msqv1/dictid.png)
 
 ## 5. View your app :cherry_blossom:
+
+If you want to use this app, first create a page in a site in confluence
+
 > :shipit: If you can't view your app, try restart your browser
 
 
@@ -39,11 +42,21 @@ Choose the Confluence as product and enter your site
   
 ![](https://i.ibb.co/NtfLn6D/dictionary-1.png)
 
+
 - Select `Allow acces`
 ![](https://i.ibb.co/9w9cTPv/dictionary-2.png)
+
 
 - Select `Accept`
 ![](https://i.ibb.co/7jx97dQ/dictionary-3.png)
 
+
 - Create a definition for a word
 ![](https://i.ibb.co/5BLLmM6/dictionary-4.png)
+
+## 5. Manage your apps :cherry_blossom:
+You can manage your apps in the menu
+
+![](https://i.ibb.co/2dXFKLL/image.png)
+
+![](https://i.ibb.co/n07krrJ/image.png)
