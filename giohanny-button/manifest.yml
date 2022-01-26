@@ -1,0 +1,11 @@
+modules:
+  jira:issuePanel:
+    - key: giohanny-button-hello-world-panel
+      function: main
+      title: giohanny-button
+      icon: https://developer.atlassian.com/platform/forge/images/icons/issue-panel-icon.svg
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: ari:cloud:ecosystem::app/f737e3f5-0533-4224-871e-d2b1925b56ea
