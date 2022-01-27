@@ -1,37 +1,48 @@
-# Forge Hello World
+# Button Component :octocat:
 
-This project contains a Forge app written in Javascript that displays `Hello World!` in a Jira issue panel. 
+To use the button component you can read the [button forge component](https://developer.atlassian.com/platform/forge/ui-kit-components/button/)
 
-See [developer.atlassian.com/platform/forge/](https://developer.atlassian.com/platform/forge) for documentation and tutorials explaining Forge.
+First of all you must be logged in using `forge login` 
 
-## Requirements
+Clone this repo and move to the app folder
 
-See [Set up Forge](https://developer.atlassian.com/platform/forge/set-up-forge/) for instructions to get set up.
+## 1. Register app :cherry_blossom:
 
-## Quick start
+```
+forge register
+```
 
-- Modify your app by editing the `src/index.jsx` file.
 
-- Build and deploy your app by running:
+## 2. Install libraries :cherry_blossom:
+For this app, we use icons from atlaskit that is get with [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)
+
+```
+npm install --global yarn
+```
+
+```
+yarn add @atlaskit/icon
+```
+
+## 3. Install dependencies :cherry_blossom:
+
+```
+npm install
+```
+## 4. Deploy app :cherry_blossom:
+
 ```
 forge deploy
 ```
+## 5. Install app :cherry_blossom:
 
-- Install your app in an Atlassian site by running:
 ```
 forge install
 ```
 
-- Develop your app by running `forge tunnel` to proxy invocations locally:
+## 6. Edit app :cherry_blossom:
+If you want to edit the code, just open the folder in you favorite IDE and then deploy it
+
 ```
-forge tunnel
+forge deploy
 ```
-
-### Notes
-- Use the `forge deploy` command when you want to persist code changes.
-- Use the `forge install` command when you want to install the app on a new site.
-- Once the app is installed on a site, the site picks up the new app changes you deploy without needing to rerun the install command.
-
-## Support
-
-See [Get help](https://developer.atlassian.com/platform/forge/get-help/) for how to get help and provide feedback.
