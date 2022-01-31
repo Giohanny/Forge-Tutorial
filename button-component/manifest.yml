@@ -8,4 +8,4 @@ modules:
     - key: main
       handler: index.run
 app:
-  id: ari:cloud:ecosystem::app/f737e3f5-0533-4224-871e-d2b1925b56ea
+  id: ari:cloud:ecosystem::app/952ea87c-a098-427e-969d-9af55eb825b1

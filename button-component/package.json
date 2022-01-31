@@ -13,7 +13,7 @@
     "eslint-plugin-react-hooks": "^2.1.2"
   },
   "dependencies": {
-    "@atlaskit/icon": "^21.10.1",
+    "@atlaskit/icon": "^21.10.2",
     "@forge/ui": "^0.13.1"
   }
 }
