@@ -50,8 +50,8 @@ forge install
 ![](https://i.ibb.co/Rphy5RF/image.png)
 
 ## 6. View your app
-You could view your app in your task
-![](https://i.ibb.co/qRv8M5P/image.png weight=")
+You could view your app inside your task
+
 <kbd>
     <img src="https://i.ibb.co/qRv8M5P/image.png " width=90% />
 </kbd>
