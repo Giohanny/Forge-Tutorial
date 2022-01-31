@@ -53,14 +53,14 @@ forge install
 You could view your app inside your task
 
 <kbd>
-    <img src="https://i.ibb.co/qRv8M5P/image.png " width=90% />
+    <img src="https://i.ibb.co/qRv8M5P/image.png" width=80% />
 </kbd>
 
 ## 8. Manage your app :cherry_blossom:
 You can uninstall your app in the option bar `Apps>Manage apps`
 
 <kbd>
-    <img src="https://i.ibb.co/n0Qkf6q/image.png" width=90% />
+    <img src="https://i.ibb.co/n0Qkf6q/image.png" width=80% />
 </kbd>
 
 ## 7. Edit app :cherry_blossom:
