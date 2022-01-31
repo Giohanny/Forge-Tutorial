@@ -3,9 +3,9 @@ modules:
     - key: giohanny-button-hello-world-panel
       function: main
       title: giohanny-button
-      icon: https://developer.atlassian.com/platform/forge/images/icons/issue-panel-icon.svg
+      icon: https://cdn-icons.flaticon.com/png/512/3089/premium/3089440.png?token=exp=1643607722~hmac=d1a7a40bd3ec12eaba7b68d0bf802f42
   function:
     - key: main
       handler: index.run
 app:
-  id: ari:cloud:ecosystem::app/952ea87c-a098-427e-969d-9af55eb825b1
+  id: ari:cloud:ecosystem::app/6faaec94-0d3d-4f65-bad4-043a8bf45d1c
