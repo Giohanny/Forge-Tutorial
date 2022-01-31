@@ -48,7 +48,22 @@ Choose the Jira as the product and write your site
 forge install
 ```
 ![](https://i.ibb.co/Rphy5RF/image.png)
-## 6. Edit app :cherry_blossom:
+
+## 6. View your app
+You could view your app in your task
+![](https://i.ibb.co/qRv8M5P/image.png weight=")
+<kbd>
+    <img src="https://i.ibb.co/qRv8M5P/image.png " width=90% />
+</kbd>
+
+## 8. Manage your app :cherry_blossom:
+You can uninstall your app in the option bar `Apps>Manage apps`
+
+<kbd>
+    <img src="https://i.ibb.co/n0Qkf6q/image.png" width=90% />
+</kbd>
+
+## 7. Edit app :cherry_blossom:
 If you want to edit the code, just open the folder in you favorite IDE and then deploy it
 
 ```
