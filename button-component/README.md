@@ -51,16 +51,18 @@ forge install
 
 ## 6. View your app
 You could view your app inside your task
+<kbd>
+<img src="https://i.ibb.co/qRv8M5P/image.png" width=80%/>
+</kbd>
 
-<img src="https://i.ibb.co/qRv8M5P/image.png" style="border: 1px solid gainsboro; width:80%"/>
-
-## 8. Manage your app :cherry_blossom:
+## 7. Manage your app :cherry_blossom:
 You can uninstall your app in the option bar `Apps>Manage apps`
 
-<img src="https://i.ibb.co/n0Qkf6q/image.png" style="border: 1px solid gainsboro; width:80%"/>
+<kbd>
+<img src="https://i.ibb.co/n0Qkf6q/image.png" width=80%/>
+</kbd>
 
-
-## 7. Edit app :cherry_blossom:
+## 8. Edit app :cherry_blossom:
 If you want to edit the code, just open the folder in you favorite IDE and then deploy it
 
 ```
