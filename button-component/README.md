@@ -47,7 +47,7 @@ Choose the Jira as the product and write your site
 ```
 forge install
 ```
-![](https://i.ibb.co/Rphy5RF/image.png)
+![](https://i.ibb.co/JQw6qT1/image.png)
 
 ## 6. View your app
 You could view your app inside your task
